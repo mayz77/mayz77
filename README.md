@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayz77
+- 👋 Hi, I’m @naimayz
 - 👀 I’m interested in full-stack web development
 - 📫 How to reach me @naimayz
 
